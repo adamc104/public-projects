@@ -1,0 +1,9 @@
+requests
+pandas
+openpyxl
+xlrd
+pdfplumber
+beautifulsoup4
+playwright
+pytesseract
+pillow

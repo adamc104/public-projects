@@ -1,0 +1,13 @@
+# Downloaded state files (re-fetched automatically)
+downloads/
+
+# Local-only
+Historicals for Reference.png
+data/errors.log
+
+# Python
+.venv/
+__pycache__/
+
+# Excel lock files
+~$*
